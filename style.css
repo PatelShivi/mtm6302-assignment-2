@@ -1,0 +1,24 @@
+html, body {
+    background-color: rgb(43, 43, 46);
+
+}
+h1{
+    text-align: center;
+    color: rgb(36, 153, 98);
+  }
+
+h3 {
+    color: whitesmoke;
+ }
+
+
+#main-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.imgGallery {
+    width: 200px;
+    height: 200px;
+    margin: 1rem;
+}
